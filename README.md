@@ -103,3 +103,23 @@ examples/ # Sample queries and responses
 ├── sample-queries.md
 
 
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🙏 Acknowledgments
+
+- IBM Skills Build for Academia Program
+- IBM watsonx.ai Platform and Documentation Team
+- [ANURAG UNIVERSITY]
+
+## 📞 Contact
+
+**[D LAKSHMIPATHI BALAJI]**
+- 📧 Email: [lakshmipathibalaji44@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/balaji-d-793182289]
+- 🎓 Institution: [ANURAG UNIVERSITY]
+
+
+
